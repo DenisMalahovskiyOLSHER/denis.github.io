@@ -1,0 +1,108 @@
+.video__wrap {
+  margin: 0 0 0 0; }
+
+.video__block {
+  display: block;
+  width: 48%;
+  float: left;
+  margin-bottom: 30px; }
+
+.video__block:nth-child(3n+1) {
+  margin-right: 2%; }
+
+.video__date {
+  display: inline-block;
+  background-color: #442058;
+  color: #fff;
+  padding: 1px 5px;
+  font-size: 0.7em;
+  margin-bottom: 5px;
+  float: left; }
+
+.video__preview {
+  z-index: 1;
+  position: absolute; }
+
+.video__play {
+  display: block;
+  position: absolute;
+  top: 110px;
+  left: 50%;
+  margin-left: -24px;
+  font-size: 3em;
+  color: #4a195f;
+  cursor: pointer;
+  opacity: 0.9; }
+
+.video__category {
+  position: relative;
+  display: block;
+  background-color: #4d008c;
+  color: #fff;
+  font-family: LabGrotesque, sans-serif;
+  font-weight: 400;
+  color: #fff;
+  padding: 1px 5px;
+  font-size: 0.7em;
+  margin-top: -25px;
+  margin-right: 5px;
+  float: right;
+  z-index: 3; }
+
+.video__preview_4_popup {
+  position: relative;
+  display: block; }
+
+.video__play:hover {
+  color: #90a0c4; }
+
+.mfp-title {
+  position: absolute;
+  color: #FFF; }
+
+.mfp-description {
+  position: absolute;
+  top: 105%;
+  color: #FFF;
+  background: black; }
+
+/*.center_block .video {
+  width: 810px;
+  margin: 0 auto; }
+  .center_block .video h2 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 0 10px 0; }
+  .center_block .video .content {
+    font-size: 15px;
+    color: #7a7b7e; }
+  .center_block .video .video_folder {
+    border-top: 1px solid #7a7b7e;
+    margin: 40px 0 0 0;
+    padding: 30px 0 0 0; }
+  .center_block .video .video_folder > h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 0 0 36px 0;
+    text-transform: uppercase; }
+  .center_block .video .video_folder .small_videos {
+    height: 210px;
+    overflow: hidden; }
+    .center_block .video .video_folder .small_videos ul {
+      list-style: none; }
+    .center_block .video .video_folder .small_videos ul li {
+      margin: 0 10px 0 0;
+      display: inline-block; }
+    .center_block .video .video_folder .small_videos ul li.forth {
+      margin: 0 0 50px 0; }
+  .center_block .video .video_folder > .button {
+    margin: 0 auto;
+    width: 150px;
+    display: block;
+    text-tranform: uppercase;
+    box-sizing: border-box;
+    display: block;
+    height: 40px;
+    padding: 10px 0;
+    width: 155px;  */

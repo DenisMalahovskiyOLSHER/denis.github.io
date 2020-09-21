@@ -1,0 +1,27 @@
+.news1{
+	visibility: hidden;
+}
+
+.news2{
+	visibility: hidden;
+}
+
+.news3{
+	visibility: hidden;
+}
+
+.news4{
+	visibility: hidden;
+}
+
+.news5{
+	visibility: hidden;
+}
+
+.news4-1:hover + .news4 {
+    visibility: visible;
+   }
+
+main img{
+	visibility: visible;
+}
